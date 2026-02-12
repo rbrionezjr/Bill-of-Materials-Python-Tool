@@ -1,3 +1,11 @@
+# BOM Processing Tool (Legacy Version)
+
+⚠️ This repository contains the original version of the BOM processing tool.
+A newer, refactored toolset is available here:
+
+👉 https://github.com/YOURNAME/engineering-gis-tools
+
+
 # 📦 BOM Processing Tool for Fiber Network Design – Version 1.4
 
 **Author:** Ruben Brionez Jr
